@@ -9,7 +9,6 @@ Genetic algorithm code used for this article:Machine learning-based prediction o
 - python GA_IRFL_k_10_toydata_github.py
 
 # Contact
-### If you have any questions, please contact below.
 - Mr. Aron Park (parkar13@gmail.com)
 - Prof. Seungyoon Nam (nams@gachon.ac.kr)
 - Prof. Dongryeol Ryu (Dongryeol.Ryu@gmail.com)
