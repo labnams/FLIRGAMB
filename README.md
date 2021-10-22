@@ -7,7 +7,7 @@ Machine learning-based prediction of fatty liver diseases by gut microbial featu
 
 # Usage
 - python GA_IRFL_k_10_toydata_github.py
-- 
+
 # Contact
 ### If you have any questions, please contact below.
 - Mr. Aron Park (parkar13@gmail.com)
