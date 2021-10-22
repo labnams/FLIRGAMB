@@ -6,7 +6,7 @@ Genetic algorithm code used for this article:Machine learning-based prediction o
 - toydata.csv : toyset data to execute genetic algorithm code.
 
 # Usage
-- python GA_IRFL_k_10_toydata_github.py
+- Run with this command: python GA_IRFL_k_10_toydata_github.py
 
 # Contact
 - Mr. Baeki Kang (baekikang@gmail.com)
