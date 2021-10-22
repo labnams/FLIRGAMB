@@ -1,5 +1,5 @@
 # FLIRGAMB
-Machine learning-based prediction of fatty liver diseases by gut microbial features in the presence of insulin resistance
+Genetic algorithm code used for this article:Machine learning-based prediction of fatty liver diseases by gut microbial features in the presence of insulin resistance
 
 # Code description
 - GA_IRFL_k_10_toydata_github.py : Python code for feature selection to build optimal IRFL classification model. This code is run with a toy example dataset.
