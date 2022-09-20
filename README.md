@@ -1,5 +1,5 @@
 # FLIRGAMB
-Genetic algorithm code used for this article:Machine learning-based prediction of fatty liver diseases by gut microbial features in the presence of insulin resistance.
+Training model, Genetic algorithm, and test model code used for this article:Machine learning-based prediction of fatty liver diseases by gut microbial features in the presence of insulin resistance.
 
 # Code description
 - training set model.Ry : R code to build random forest model for classifying IRFL. This code is run with a toy example dataset
