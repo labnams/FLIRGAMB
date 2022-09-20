@@ -10,7 +10,7 @@ Training model, Genetic algorithm, and test model code used for this article:Mac
 - toydata_ISFL.csv : toyset data to execute genetic algorithm for classifying ISFL.
 
 - test set model.R : R code to evaluate classification perfomance using the selected genera from GA-IRFL model. This code is run with a test dataset with the 10 selected genera.
-- 10feature_rph_211021.csv : 10 selected genera data from the test dataset.
+- 10feature_rph_211021_coded.csv : 10 selected genera data from the test dataset.
 
 # Usage
 - Run these python and R code with toydata.csv and 10feature_rph_211021.csv.
